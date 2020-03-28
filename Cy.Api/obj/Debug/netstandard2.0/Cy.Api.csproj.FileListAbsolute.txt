@@ -1,0 +1,9 @@
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\bin\Debug\netstandard2.0\Cy.Api.deps.json
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\bin\Debug\netstandard2.0\Cy.Api.dll
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.csprojAssemblyReference.cache
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.AssemblyInfoInputs.cache
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.AssemblyInfo.cs
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\bin\Debug\netstandard2.0\Cy.Api.pdb
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.csproj.CoreCompileInputs.cache
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.dll
+C:\Users\pjoshi3\source\repos\Compare-Yourself\Cy.Api\obj\Debug\netstandard2.0\Cy.Api.pdb

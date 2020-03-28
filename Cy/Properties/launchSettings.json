@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Cy": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_Environment": "Development"
+      }
+    }
+  }
+}

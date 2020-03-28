@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ov5Nj0cqveeOwGFTwhbKBuOyY98yQb5RXYWUa16l9GmN/DjkaoM2MGN9rMCb9KtKmgvhoAHdhqngdoB+b0FNIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjoshi3\\source\\repos\\Compare-Yourself\\Cy.Api\\Cy.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjoshi3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pjoshi3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pjoshi3\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
