@@ -9,7 +9,7 @@ namespace Cy.Controllers
     [ApiController]
     public class WltpController : ControllerBase
     {
-        [HttpGet("api/wltp")]
+        [HttpGet("api/wltp/list")]
         public IActionResult Get()
         {
             return Ok(new string[] { "test1", "test2" });
